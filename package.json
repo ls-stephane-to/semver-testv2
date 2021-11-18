@@ -1,0 +1,19 @@
+{
+  "name": "semver-testv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ls-stephane-to/semver-testv2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ls-stephane-to/semver-testv2/issues"
+  },
+  "homepage": "https://github.com/ls-stephane-to/semver-testv2#readme"
+}
